@@ -2,7 +2,7 @@
 
 ### Freelance .NET Software Engineer
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/@jfuxa?style=social)](https://youtube.com/@jfuxa?sub_confirmation=1)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCzTGBQ5HZpsQ2e_dwIbnJOg?style=social)](https://youtube.com/@jfuxa?sub_confirmation=1)
 <!--
 **j-fuxa/j-fuxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
