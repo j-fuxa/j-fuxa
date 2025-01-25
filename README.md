@@ -6,7 +6,8 @@
 ![GitHub Followers](https://img.shields.io/github/followers/j-fuxa?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/j-fuxa?style=social)
 
-- 💬 **Ask me about**: DDD, CQRS, RESTful APIs, Software Architecture, Design Patterns
+- 💬 **Ask me about**: .NET, DDD, CQRS, RESTful APIs, Software Architecture, Design Patterns
+- 🌱 **I’m currently learning**: Event Modeling, Event-Driven Architecture
 - 📫 **How to reach me**: Reach out and connect with me on LinkedIn!
 <!--
 **j-fuxa/j-fuxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
